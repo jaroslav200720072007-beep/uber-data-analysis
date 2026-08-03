@@ -1,0 +1,41 @@
+location_id,zone_name,city,latitude,longitude,zone_type
+1,Times Square,New York,40.758,-73.9855,commercial
+2,JFK Airport,New York,40.6413,-73.7781,airport
+3,LaGuardia Airport,New York,40.7769,-73.874,airport
+4,Brooklyn Heights,New York,40.696,-73.9946,residential
+5,Harlem,New York,40.8116,-73.9465,residential
+6,Midtown Manhattan,New York,40.7549,-73.984,commercial
+7,Greenwich Village,New York,40.7335,-74.0027,commercial
+8,Grand Central,New York,40.7527,-73.9772,transit_hub
+9,Upper West Side,New York,40.787,-73.9754,residential
+10,Flushing,New York,40.7673,-73.833,residential
+11,"O'Hare Airport",Chicago,41.9742,-87.9073,airport
+12,The Loop,Chicago,41.8827,-87.6233,commercial
+13,Wicker Park,Chicago,41.9088,-87.6793,residential
+14,Midway Airport,Chicago,41.7868,-87.7522,airport
+15,Lincoln Park,Chicago,41.922,-87.652,residential
+16,Navy Pier,Chicago,41.8919,-87.6051,commercial
+17,Union Station,Chicago,41.8786,-87.64,transit_hub
+18,Hyde Park,Chicago,41.7943,-87.5907,residential
+19,River North,Chicago,41.8922,-87.6335,commercial
+20,Logan Square,Chicago,41.921,-87.707,residential
+21,LAX Airport,Los Angeles,33.9425,-118.408,airport
+22,Hollywood,Los Angeles,34.0928,-118.328,commercial
+23,Santa Monica,Los Angeles,34.0195,-118.491,commercial
+24,Downtown LA,Los Angeles,34.0407,-118.251,commercial
+25,Venice Beach,Los Angeles,33.985,-118.469,residential
+26,Burbank,Los Angeles,34.1808,-118.308,residential
+27,Union Station LA,Los Angeles,34.056,-118.236,transit_hub
+28,Westwood,Los Angeles,34.0635,-118.447,residential
+29,Compton,Los Angeles,33.8958,-118.22,residential
+30,Pasadena,Los Angeles,34.1478,-118.144,residential
+31,IAH Airport,Houston,29.9902,-95.3368,airport
+32,Downtown Houston,Houston,29.7604,-95.3698,commercial
+33,Galleria,Houston,29.74,-95.4697,commercial
+34,Medical Center,Houston,29.7074,-95.3976,commercial
+35,Midtown Houston,Houston,29.7374,-95.3754,residential
+36,The Heights,Houston,29.7998,-95.3935,residential
+37,Hobby Airport,Houston,29.6454,-95.2789,airport
+38,Energy Corridor,Houston,29.7615,-95.5946,commercial
+39,Greenway Plaza,Houston,29.7344,-95.4407,transit_hub
+40,Sugar Land,Houston,29.6197,-95.6349,residential
