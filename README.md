@@ -44,7 +44,7 @@
 
 ### Етап 2: Візуалізація в Tableau
 
-Натисніть тут, щоб переглянути дашборд у Tableau Public
+Натисніть [тут](https://public.tableau.com/app/profile/jaroslav.stetsiuk/viz/UberAnalyticsDashboard_17857659306160/Dashboard1), щоб переглянути дашборд у Tableau Public, щоб переглянути дашборд у Tableau Public
 
 У Tableau реалізовано:
 - Фільтр по місту (City) для сегментації даних.
