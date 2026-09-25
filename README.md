@@ -44,6 +44,8 @@
 
 ### Етап 2: Візуалізація в Tableau
 
+<img width="1476" height="741" alt="Снимок экрана — 2026-09-25 в 12 15 43" src="https://github.com/user-attachments/assets/a96e3ae0-6a6d-4e16-9ac6-f275fab1cfae" />
+
 Натисніть [тут](https://public.tableau.com/app/profile/jaroslav.stetsiuk/viz/UberAnalyticsDashboard_17857659306160/Dashboard1), щоб переглянути дашборд у Tableau Public, щоб переглянути дашборд у Tableau Public
 
 У Tableau реалізовано:
